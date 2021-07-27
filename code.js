@@ -2,3 +2,7 @@
 // and select "Open with Live Server"
 
 // Your Code Here.
+
+//Geolocation
+Geolocation.getCurrentPosition()
+Geolocation.watchPosition()
